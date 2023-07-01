@@ -1,4 +1,4 @@
-# Comparing performences of QSVM for different feature maps using the Iris Dataset
+# Comparing performances of QSVM for different feature maps using the Iris Dataset
 
 
 In this project I have used different feature maps (ZFeatureMap, ZZFeatureMap, Angle Encoding, Amplitude Encoding)  for generating a Quantum-enhanced Support Vector Machine (QSVM) algorithoms to classify the three classes(setosa, versicolor, virginica) of the IRIS Dataset using the one-vs-all format and compared their performance to find the best performing feature map with parameters. 
